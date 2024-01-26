@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test.me" ,CCTV1-TEST
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8

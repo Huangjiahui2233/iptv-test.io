@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="test.me" ,CCTV1-TEST-1
+#EXTINF:-1,CCTV1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1,CCTV2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1,CCTV3 综艺
+https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+#EXTINF:-1,CCTV4 中文国际
+http://60.223.72.65:8001/rtp/226.0.2.156:9160
+#EXTINF:-1,CCTV5 体育
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1,CCTV6 电影
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1,CCTV7 军事农业
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8

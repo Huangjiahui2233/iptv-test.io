@@ -10,8 +10,20 @@ http://60.223.72.65:8001/rtp/226.0.2.156:9160
 #EXTINF:-1,CCTV5 体育
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1,CCTV6 电影
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1,CCTV6 电影（备用2）
 http://1.70.35.235:8082/udp/239.1.1.13:8013
 #EXTINF:-1,CCTV7 军事农业
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1,CCTV8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1,CCTV9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1,CCTV10 教育
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1,CCTV11 戏剧
+https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+#EXTINF:-1,CCTV12 社会法治
+https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+#EXTINF:-1,CCTV13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1,CCTV15 音乐
+http://222.189.51.62:8888/newlive/live/hls/15/live.m3u8
